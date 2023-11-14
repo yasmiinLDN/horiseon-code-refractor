@@ -13,7 +13,6 @@ This project involves refractoring an existing website homepage. The purpose of 
 * [Badges](#badges)
 * [Features](#features)
 * [Contributing](#contributing)
-* [Tests](#tests)
 
 ## Installation
 <br>
@@ -21,7 +20,7 @@ This project involves refractoring an existing website homepage. The purpose of 
 1. Navigate to the repository using the link below: 
 
 ```sh
-   https://github.com/yasmiinLDN/horiseon-code-refractor [https://example.com]
+   https://github.com/yasmiinLDN/horiseon-code-refractor
    ```
 <br>
 
@@ -37,9 +36,7 @@ This project involves refractoring an existing website homepage. The purpose of 
 
 ## Usage 
 
-Provide instructions and examples for use. Include screenshots as needed. 
-
-To add a screenshot, create an `assets/images` folder in your repository and upload your screenshot to it. Then, using the relative filepath, add it to your README using the following syntax:
+Below shows the layout of the final website:
 
 ```md
 ![alt text](assets/images/screenshot-2.png)
@@ -72,12 +69,4 @@ This document is distributed under the MIT License. Please see LICENSE.txt for m
 ## Contributing
 
 ![Contributor Covenant](https://img.shields.io/badge/Contributor%20Covenant-2.1-4baaaa.svg)  
-
-
-## Tests
-
-Go the extra mile and write tests for your application. Then provide examples on how to run them.
-
----
-
 
