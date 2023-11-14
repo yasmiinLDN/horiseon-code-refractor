@@ -38,9 +38,7 @@ This project involves refractoring an existing website homepage. The purpose of 
 
 Below shows the layout of the final website:
 
-```md
 ![alt text](assets/images/screenshot-2.png)
-```
 
 
 ## Credits
