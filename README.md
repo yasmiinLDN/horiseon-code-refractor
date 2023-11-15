@@ -29,9 +29,11 @@ This project involves refractoring an existing website homepage. The purpose of 
 <br>
 <br>
 3. Clone the repository into your local machine using the below command entered into the command line (assuming you have set up your SSH connection correctly to connect your GitHub account to your local machine):
-   ```sh
+
+```sh
    git clone git@github.com:yasmiinLDN/yasmiin-horiseon-code-refractor.git
    ```
+<br>
 
 
 ## Usage 
